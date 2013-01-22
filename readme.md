@@ -1,21 +1,30 @@
 Commentary
 ==========
 
-A usable and web accessible slideshow widget for your site using HTML, CSS, and JavaScript (jQuery). .
+Pupular Card Games written in C.
+
+
 
 Installation
 ============
 
-None
+You can install the GNU compiler suite on Windows and Mac OS X. It usually comes preinstalled on Linux. 
+
+
 
 Use
 ===
 
-You can download the source files for this tutorial to study
-Clicking on the index.html file will take out to a live demonstration of the plugin.
+Open up a command prompt or terminal.
+Navigate to the folder that contains your C source code.
+Compile the source code using the "g++" command : g++ sourceCodeFile.C --o programName
 
-Supported syntax
+
+
+Credits
 ================
 
-I encourage you to contribute to ppGallery!
+I encourage you to contribute to my Card Games!
 Cheers!
+
+©pixelPharm - ALL RIGHTS RESERVED
